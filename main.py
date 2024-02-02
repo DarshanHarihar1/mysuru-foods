@@ -10,7 +10,7 @@ from openai import OpenAI
 # Set your OpenAI API key
 
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 # Global variable to store selected items
 selected_items = []
